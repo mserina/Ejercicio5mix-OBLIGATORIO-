@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ejercicio5Mix_obligatorio_.Servicios
 {
-    internal interface OperacionInterfaz
+    internal class AñoImplementacion
     {
-        public void bucle();
-
     }
 }
