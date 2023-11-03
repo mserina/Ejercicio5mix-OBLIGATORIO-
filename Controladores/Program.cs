@@ -19,6 +19,7 @@ namespace Ejercicio5Mix_obligatorio_{
             OperacionInterfaz op = new OperacionImplementacion();
             op.bucle();
             
+            
         }
     }
 }

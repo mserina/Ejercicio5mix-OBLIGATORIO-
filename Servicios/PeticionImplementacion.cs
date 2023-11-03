@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace Ejercicio5Mix_obligatorio_.Servicios
 {
+    /// <summary>
+    /// Clase principal donde se almacena toda la logica de los metodos
+    /// 031123 - msm
+    /// </summary>
     internal class PeticionImplementacion : PeticionInterfaz
     {
         public short peticion(int condicion)

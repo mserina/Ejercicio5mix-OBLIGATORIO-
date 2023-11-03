@@ -8,5 +8,12 @@ namespace Ejercicio5Mix_obligatorio_.Servicios
 {
     internal interface AñoInterfaz
     {
+        /// <summary>
+        /// Metodo que calcula si un año es bisiesto o no
+        /// msm - 031123
+        /// </summary>
+        /// <param name="año"></param>
+        public void año(short año);
+
     }
 }
